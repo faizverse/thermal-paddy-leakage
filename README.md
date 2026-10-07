@@ -1,7 +1,7 @@
 # Leakage-aware evaluation of transfer learning on the thermal paddy leaf dataset
 
 Code and per-fold results for: *Leakage-aware transfer learning evaluation for thermal paddy leaf classification*
-(M. F. Bukhori, S. A. Syed Mustafa, N. Zainal and M. H. Mohd Zaman; submitted to Jurnal Kejuruteraan).
+(M. F. Bukhori, S. A. Syed Mustafa, N. Zainal and M. H. Mohd Zaman).
 
 ## Data
 Public dataset: Aarthy & Sujatha (2020), "Thermal images – diseased & healthy leaves – paddy", Kaggle,
