@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-07",
+  "what": "Timing of the live web prototype (https://drfaizb-thermal-paddy-classifier.static.hf.space) in the Chromium-based browser pane of the Claude desktop app on Dr Faiz's Mac",
+  "files_checked": "Live model.json and shards 1 and 12 byte-identical (SHA-256) to 02_Web_App_HuggingFace/; live index.html identical apart from one line injected by Hugging Face",
+  "environment": {
+    "browser_engine": "Chrome/152.0.7977.130 (Claude desktop app 2.19675.1)",
+    "gpu_reported_by_browser": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3)",
+    "logical_cores": 8,
+    "device_memory_GB_reported": 8,
+    "tfjs_version": "4.22.0",
+    "tfjs_backend": "webgl (library default; the page does not set a backend)"
+  },
+  "per_image_time_ms": {
+    "definition": "same region the app times: preprocess (resize, crop, resize) + model.predict + read-back of the six probabilities (dataSync); image decoding excluded; model already warmed up as in the app",
+    "input": "320 x 240 canvas image (random pixels); content-independence checked with blank, gradient and random inputs (medians 36.3, 36.5, 36.8 ms over 30 runs each)",
+    "n_runs": 100, "warm_up_runs_excluded": 5,
+    "median": 36.1, "q1": 34.3, "q3": 37.1, "p5": 33.2, "p95": 39.1, "min": 32.5, "max": 64.8
+  },
+  "model_download": {
+    "definition": "model.json + 12 weight files fetched with cache disabled (cache:'no-store'), all in parallel",
+    "bytes_MB": 48.2, "MiB": 46.0,
+    "runs_seconds": [1.9, 1.9], "throughput_Mbit_s": [206, 201],
+    "note": "depends on the network connection"
+  },
+  "page_ready_ms": {
+    "definition": "time from inserting the page in a fresh iframe (new JavaScript and WebGL context) until the status reads 'Model ready' (includes loading TensorFlow.js and the model, and the app's warm-up prediction); browser cache not cleared, so these are repeat visits",
+    "runs": [4548, 2863, 2838]
+  }
+}

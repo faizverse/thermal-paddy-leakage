@@ -1,0 +1,294 @@
+{
+ "mechanism": {
+  "n_images_multi": 496,
+  "n_images_single": 140,
+  "n_single_image_groups": 140,
+  "resnet50_crop_imagelevel": {
+   "acc_multi_image_groups_%": [
+    89.65,
+    0.65
+   ],
+   "acc_single_image_groups_%": [
+    95.0,
+    1.24
+   ],
+   "group_weighted_acc_%": [
+    92.91,
+    0.87
+   ],
+   "note": "mean and SD over the 3 seeds of pooled out-of-fold accuracy"
+  },
+  "resnet50_crop_RANDOMgroups": {
+   "acc_multi_image_groups_%": [
+    88.51,
+    0.81
+   ],
+   "acc_single_image_groups_%": [
+    93.1,
+    1.09
+   ],
+   "group_weighted_acc_%": [
+    91.37,
+    1.12
+   ],
+   "note": "mean and SD over the 3 seeds of pooled out-of-fold accuracy"
+  },
+  "resnet50_crop_grouped": {
+   "acc_multi_image_groups_%": [
+    73.19,
+    2.8
+   ],
+   "acc_single_image_groups_%": [
+    91.19,
+    1.8
+   ],
+   "group_weighted_acc_%": [
+    86.52,
+    1.71
+   ],
+   "note": "mean and SD over the 3 seeds of pooled out-of-fold accuracy"
+  }
+ },
+ "readout_images": {
+  "n_images": 46,
+  "per_class": {
+   "BLB": 14,
+   "blast": 7,
+   "healthy": 0,
+   "hispa": 22,
+   "leaf folder": 0,
+   "leaf spot": 3
+  },
+  "leaf_grouped_accuracy": {
+   "BLB": {
+    "with_readout_%": 85.7,
+    "n_with": 14,
+    "without_readout_%": 84.3,
+    "n_without": 206,
+    "with_readout_correct_per_seed": [
+     10,
+     14,
+     12
+    ]
+   },
+   "blast": {
+    "with_readout_%": 0.0,
+    "n_with": 7,
+    "without_readout_%": 53.3,
+    "n_without": 60,
+    "with_readout_correct_per_seed": [
+     0,
+     0,
+     0
+    ]
+   },
+   "hispa": {
+    "with_readout_%": 81.8,
+    "n_with": 22,
+    "without_readout_%": 82.5,
+    "n_without": 120,
+    "with_readout_correct_per_seed": [
+     21,
+     17,
+     16
+    ]
+   },
+   "leaf spot": {
+    "with_readout_%": 0.0,
+    "n_with": 3,
+    "without_readout_%": 80.1,
+    "n_without": 77,
+    "with_readout_correct_per_seed": [
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "note": "accuracy pooled over the 3 seeds of the main leaf-grouped protocol (ResNet50, cropped)"
+ },
+ "perclass_f1": {
+  "renderings_resnet50_crop_grouped": {
+   "BLB": [
+    0.829,
+    0.015
+   ],
+   "blast": [
+    0.468,
+    0.064
+   ],
+   "healthy": [
+    0.687,
+    0.068
+   ],
+   "hispa": [
+    0.833,
+    0.025
+   ],
+   "leaf folder": [
+    0.966,
+    0.016
+   ],
+   "leaf spot": [
+    0.769,
+    0.037
+   ]
+  },
+  "absolute_temperature_resnet50_Tabs_grouped": {
+   "BLB": [
+    0.835,
+    0.037
+   ],
+   "blast": [
+    0.528,
+    0.028
+   ],
+   "healthy": [
+    0.671,
+    0.097
+   ],
+   "hispa": [
+    0.822,
+    0.029
+   ],
+   "leaf folder": [
+    0.863,
+    0.036
+   ],
+   "leaf spot": [
+    0.797,
+    0.042
+   ]
+  },
+  "note": "mean and SD over the 3 seeds"
+ },
+ "confusion_matrix": {
+  "classes": [
+   "BLB",
+   "blast",
+   "healthy",
+   "hispa",
+   "leaf folder",
+   "leaf spot"
+  ],
+  "seed0": [
+   [
+    190,
+    7,
+    6,
+    5,
+    2,
+    10
+   ],
+   [
+    9,
+    35,
+    9,
+    10,
+    0,
+    4
+   ],
+   [
+    14,
+    12,
+    65,
+    1,
+    0,
+    1
+   ],
+   [
+    12,
+    8,
+    0,
+    120,
+    0,
+    2
+   ],
+   [
+    1,
+    0,
+    0,
+    0,
+    33,
+    0
+   ],
+   [
+    7,
+    2,
+    4,
+    1,
+    0,
+    66
+   ]
+  ],
+  "sum_over_3_seeds": [
+   [
+    557,
+    13,
+    31,
+    17,
+    4,
+    38
+   ],
+   [
+    25,
+    96,
+    25,
+    46,
+    0,
+    9
+   ],
+   [
+    30,
+    56,
+    184,
+    2,
+    0,
+    7
+   ],
+   [
+    31,
+    42,
+    0,
+    351,
+    0,
+    2
+   ],
+   [
+    3,
+    0,
+    0,
+    0,
+    99,
+    0
+   ],
+   [
+    37,
+    3,
+    14,
+    1,
+    0,
+    185
+   ]
+  ]
+ },
+ "grouping_counts": {
+  "file_name_groups": 248,
+  "similarity_0.98": 243,
+  "similarity_0.97": 212,
+  "similarity_0.96": 182,
+  "consecutive_pairs": 131
+ },
+ "files_without_numeric_identifier": [
+  "blast/Thermalimagex.jpg",
+  "healthy/thermalimage.jpg",
+  "hispa/thermalimage.jpg"
+ ],
+ "original_project_single_split": {
+  "cropped_%": 95.31,
+  "cropped_correct": "61/64",
+  "uncropped_%": 98.46,
+  "uncropped_correct": "64/65",
+  "source": "original project (preliminary, unpublished study by the authors), notebook outputs: uncropped value from an earlier model, cropped value from the final model; image-level splits, test set used for early stopping"
+ }
+}

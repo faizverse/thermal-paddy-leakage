@@ -1,0 +1,637 @@
+file,class,file_name_groups,similarity_0.98,similarity_0.97,similarity_0.96,consecutive_pairs
+BLB/thermalimage100a.jpg,BLB,0_100,m2,m2,m2,0_50
+BLB/thermalimage101a.jpg,BLB,0_101,m3,m3,m3,0_50
+BLB/thermalimage101b.jpg,BLB,0_101,m3,m3,m3,0_50
+BLB/thermalimage101c.jpg,BLB,0_101,m3,m3,m3,0_50
+BLB/thermalimage101d.jpg,BLB,0_101,m3,m3,m3,0_50
+BLB/thermalimage101e.jpg,BLB,0_101,m3,m3,m3,0_50
+BLB/thermalimage102a.jpg,BLB,0_102,m4,m4,m6,0_51
+BLB/thermalimage102b.jpg,BLB,0_102,m4,m4,m6,0_51
+BLB/thermalimage103a.jpg,BLB,0_103,m5,m6,m6,0_51
+BLB/thermalimage103b.jpg,BLB,0_103,m5,m6,m6,0_51
+BLB/thermalimage103c.jpg,BLB,0_103,m5,m6,m6,0_51
+BLB/thermalimage103d.jpg,BLB,0_103,m5,m6,m6,0_51
+BLB/thermalimage103e.jpg,BLB,0_103,m5,m6,m6,0_51
+BLB/thermalimage103f.jpg,BLB,0_103,m5,m6,m6,0_51
+BLB/thermalimage104a.jpg,BLB,0_104,m6,m6,m6,0_52
+BLB/thermalimage104b.jpg,BLB,0_104,m6,m6,m6,0_52
+BLB/thermalimage104c.jpg,BLB,0_104,m6,m6,m6,0_52
+BLB/thermalimage104d.jpg,BLB,0_104,m6,m6,m6,0_52
+BLB/thermalimage104e.jpg,BLB,0_104,m6,m6,m6,0_52
+BLB/thermalimage10a.jpg,BLB,0_10,m1,m1,m10,0_5
+BLB/thermalimage11a.jpg,BLB,0_11,m7,m7,m7,0_5
+BLB/thermalimage12a.jpg,BLB,0_12,m11,m11,m81,0_6
+BLB/thermalimage13a.jpg,BLB,0_13,m9,m9,m9,0_6
+BLB/thermalimage14a.jpg,BLB,0_14,m10,m10,m10,0_7
+BLB/thermalimage15a.jpg,BLB,0_15,m11,m11,m81,0_7
+BLB/thermalimage16a.jpg,BLB,0_16,m12,m12,m81,0_8
+BLB/thermalimage16b.jpg,BLB,0_16,m12,m12,m81,0_8
+BLB/thermalimage17a.jpg,BLB,0_17,m13,m19,m20,0_8
+BLB/thermalimage17b.jpg,BLB,0_17,m13,m19,m20,0_8
+BLB/thermalimage17c.jpg,BLB,0_17,m13,m19,m20,0_8
+BLB/thermalimage18a.jpg,BLB,0_18,m14,m14,m14,0_9
+BLB/thermalimage18b.jpg,BLB,0_18,m14,m14,m14,0_9
+BLB/thermalimage19a.jpg,BLB,0_19,m15,m19,m20,0_9
+BLB/thermalimage19b.jpg,BLB,0_19,m15,m19,m20,0_9
+BLB/thermalimage1a.jpg,BLB,0_1,m0,m0,m0,0_0
+BLB/thermalimage1b.jpg,BLB,0_1,m0,m0,m0,0_0
+BLB/thermalimage1c.jpg,BLB,0_1,m0,m0,m0,0_0
+BLB/thermalimage1d.jpg,BLB,0_1,m0,m0,m0,0_0
+BLB/thermalimage1e.jpg,BLB,0_1,m0,m0,m0,0_0
+BLB/thermalimage20a.jpg,BLB,0_20,m17,m17,m17,0_10
+BLB/thermalimage21a.jpg,BLB,0_21,m18,m19,m20,0_10
+BLB/thermalimage22a.jpg,BLB,0_22,m19,m19,m20,0_11
+BLB/thermalimage22b.jpg,BLB,0_22,m19,m19,m20,0_11
+BLB/thermalimage23a.jpg,BLB,0_23,m20,m19,m20,0_11
+BLB/thermalimage23b.jpg,BLB,0_23,m20,m19,m20,0_11
+BLB/thermalimage24a.jpg,BLB,0_24,m21,m21,m21,0_12
+BLB/thermalimage25a.jpg,BLB,0_25,m22,m22,m29,0_12
+BLB/thermalimage26a.jpg,BLB,0_26,m23,m23,m23,0_13
+BLB/thermalimage27a.jpg,BLB,0_27,m24,m24,m29,0_13
+BLB/thermalimage28a.jpg,BLB,0_28,m25,m25,m29,0_14
+BLB/thermalimage28b.jpg,BLB,0_28,m25,m25,m29,0_14
+BLB/thermalimage29a.jpg,BLB,0_29,m26,m26,m26,0_14
+BLB/thermalimage2a.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2b.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2c.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2d.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2e.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2f.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2g.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2h.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2i.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2j.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2k.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2l.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2m.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2n.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage2o.jpg,BLB,0_2,m16,m16,m16,0_1
+BLB/thermalimage30a.jpg,BLB,0_30,m28,m28,m29,0_15
+BLB/thermalimage31a.jpg,BLB,0_31,m29,m29,m29,0_15
+BLB/thermalimage31b.jpg,BLB,0_31,m29,m29,m29,0_15
+BLB/thermalimage32a.jpg,BLB,0_32,m30,m30,m30,0_16
+BLB/thermalimage32b.jpg,BLB,0_32,m30,m30,m30,0_16
+BLB/thermalimage33a.jpg,BLB,0_33,m31,m31,m31,0_16
+BLB/thermalimage34a.jpg,BLB,0_34,m32,m32,m34,0_17
+BLB/thermalimage35a.jpg,BLB,0_35,m33,m33,m33,0_17
+BLB/thermalimage36a.jpg,BLB,0_36,m34,m34,m34,0_18
+BLB/thermalimage37a.jpg,BLB,0_37,m35,m35,m35,0_18
+BLB/thermalimage38a.jpg,BLB,0_38,m36,m36,m39,0_19
+BLB/thermalimage39a.jpg,BLB,0_39,m37,m37,m37,0_19
+BLB/thermalimage3a.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3b.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3c.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3d.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3e.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3f.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3g.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3h.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3i.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3j.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3k.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3l.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage3m.jpg,BLB,0_3,m27,m27,m27,0_1
+BLB/thermalimage40a.jpg,BLB,0_40,m39,m39,m39,0_20
+BLB/thermalimage40b.jpg,BLB,0_40,m39,m39,m39,0_20
+BLB/thermalimage41a.jpg,BLB,0_41,m41,m41,m41,0_20
+BLB/thermalimage41b.jpg,BLB,0_41,m41,m41,m41,0_20
+BLB/thermalimage42a.jpg,BLB,0_42,m41,m41,m41,0_21
+BLB/thermalimage43a.jpg,BLB,0_43,m42,m53,m52,0_21
+BLB/thermalimage43b.jpg,BLB,0_43,m42,m53,m52,0_21
+BLB/thermalimage44a.jpg,BLB,0_44,m43,m53,m52,0_22
+BLB/thermalimage45a.jpg,BLB,0_45,m44,m53,m52,0_22
+BLB/thermalimage46a.jpg,BLB,0_46,m45,m53,m52,0_23
+BLB/thermalimage47a.jpg,BLB,0_47,m46,m53,m52,0_23
+BLB/thermalimage48a.jpg,BLB,0_48,m47,m53,m52,0_24
+BLB/thermalimage49a.jpg,BLB,0_49,m48,m53,m52,0_24
+BLB/thermalimage4a.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4b.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4c.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4d.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4e.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4f.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4g.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4h.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage4i.jpg,BLB,0_4,m38,m38,m38,0_2
+BLB/thermalimage50a.jpg,BLB,0_50,m50,m50,m52,0_25
+BLB/thermalimage51a.jpg,BLB,0_51,m51,m51,m51,0_25
+BLB/thermalimage52a.jpg,BLB,0_52,m52,m52,m52,0_26
+BLB/thermalimage53a.jpg,BLB,0_53,m55,m53,m52,0_26
+BLB/thermalimage54a.jpg,BLB,0_54,m54,m53,m52,0_27
+BLB/thermalimage55a.jpg,BLB,0_55,m55,m53,m52,0_27
+BLB/thermalimage56a.jpg,BLB,0_56,m56,m56,m56,0_28
+BLB/thermalimage56b.jpg,BLB,0_56,m56,m56,m56,0_28
+BLB/thermalimage57a.jpg,BLB,0_57,m57,m57,m57,0_28
+BLB/thermalimage57b.jpg,BLB,0_57,m57,m57,m57,0_28
+BLB/thermalimage58a.jpg,BLB,0_58,m58,m58,m58,0_29
+BLB/thermalimage59a.jpg,BLB,0_59,m59,m59,m61,0_29
+BLB/thermalimage59b.jpg,BLB,0_59,m59,m59,m61,0_29
+BLB/thermalimage59c.jpg,BLB,0_59,m59,m59,m61,0_29
+BLB/thermalimage5a.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage5b.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage5c.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage5d.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage5e.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage5f.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage5g.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage5h.jpg,BLB,0_5,m49,m49,m49,0_2
+BLB/thermalimage60a.jpg,BLB,0_60,m61,m61,m61,0_30
+BLB/thermalimage60b.jpg,BLB,0_60,m61,m61,m61,0_30
+BLB/thermalimage60c.jpg,BLB,0_60,m61,m61,m61,0_30
+BLB/thermalimage61a.jpg,BLB,0_61,m62,m62,m62,0_30
+BLB/thermalimage61b.jpg,BLB,0_61,m62,m62,m62,0_30
+BLB/thermalimage62a.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62b.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62c.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62d.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62e.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62f.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62g.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62h.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage62i.jpg,BLB,0_62,m63,m63,m63,0_31
+BLB/thermalimage63a.jpg,BLB,0_63,m64,m64,m64,0_31
+BLB/thermalimage65a.jpg,BLB,0_65,m65,m65,m65,0_32
+BLB/thermalimage65b.jpg,BLB,0_65,m65,m65,m65,0_32
+BLB/thermalimage65c.jpg,BLB,0_65,m65,m65,m65,0_32
+BLB/thermalimage66a.jpg,BLB,0_66,m66,m66,m66,0_33
+BLB/thermalimage66b.jpg,BLB,0_66,m66,m66,m66,0_33
+BLB/thermalimage67a.jpg,BLB,0_67,m67,m67,m67,0_33
+BLB/thermalimage67b.jpg,BLB,0_67,m67,m67,m67,0_33
+BLB/thermalimage67c.jpg,BLB,0_67,m67,m67,m67,0_33
+BLB/thermalimage68a.jpg,BLB,0_68,m68,m68,m68,0_34
+BLB/thermalimage68b.jpg,BLB,0_68,m68,m68,m68,0_34
+BLB/thermalimage69a.jpg,BLB,0_69,m69,m69,m69,0_34
+BLB/thermalimage69b.jpg,BLB,0_69,m69,m69,m69,0_34
+BLB/thermalimage6a.jpg,BLB,0_6,m60,m60,m60,0_3
+BLB/thermalimage6b.jpg,BLB,0_6,m60,m60,m60,0_3
+BLB/thermalimage6c.jpg,BLB,0_6,m60,m60,m60,0_3
+BLB/thermalimage6d.jpg,BLB,0_6,m60,m60,m60,0_3
+BLB/thermalimage6e.jpg,BLB,0_6,m60,m60,m60,0_3
+BLB/thermalimage6f.jpg,BLB,0_6,m60,m60,m60,0_3
+BLB/thermalimage70a.jpg,BLB,0_70,m71,m71,m73,0_35
+BLB/thermalimage70b.jpg,BLB,0_70,m71,m71,m73,0_35
+BLB/thermalimage70c.jpg,BLB,0_70,m71,m71,m73,0_35
+BLB/thermalimage71a.jpg,BLB,0_71,m72,m73,m73,0_35
+BLB/thermalimage71b.jpg,BLB,0_71,m72,m73,m73,0_35
+BLB/thermalimage71c.jpg,BLB,0_71,m72,m73,m73,0_35
+BLB/thermalimage71d.jpg,BLB,0_71,m72,m73,m73,0_35
+BLB/thermalimage72a.jpg,BLB,0_72,m73,m73,m73,0_36
+BLB/thermalimage72b.jpg,BLB,0_72,m73,m73,m73,0_36
+BLB/thermalimage72c.jpg,BLB,0_72,m73,m73,m73,0_36
+BLB/thermalimage72d.jpg,BLB,0_72,m73,m73,m73,0_36
+BLB/thermalimage73a.jpg,BLB,0_73,m74,m74,m74,0_36
+BLB/thermalimage73b.jpg,BLB,0_73,m74,m74,m74,0_36
+BLB/thermalimage74a.jpg,BLB,0_74,m75,m75,m75,0_37
+BLB/thermalimage74b.jpg,BLB,0_74,m75,m75,m75,0_37
+BLB/thermalimage75a.jpg,BLB,0_75,m76,m76,m76,0_37
+BLB/thermalimage75b.jpg,BLB,0_75,m76,m76,m76,0_37
+BLB/thermalimage76a.jpg,BLB,0_76,m77,m77,m77,0_38
+BLB/thermalimage76b.jpg,BLB,0_76,m77,m77,m77,0_38
+BLB/thermalimage77a.jpg,BLB,0_77,m78,m78,m78,0_38
+BLB/thermalimage77b.jpg,BLB,0_77,m78,m78,m78,0_38
+BLB/thermalimage78a.jpg,BLB,0_78,m79,m79,m79,0_39
+BLB/thermalimage78b.jpg,BLB,0_78,m79,m79,m79,0_39
+BLB/thermalimage79a.jpg,BLB,0_79,m80,m80,m80,0_39
+BLB/thermalimage79b.jpg,BLB,0_79,m80,m80,m80,0_39
+BLB/thermalimage7a.jpg,BLB,0_7,m70,m81,m81,0_3
+BLB/thermalimage80a.jpg,BLB,0_80,m82,m82,m82,0_40
+BLB/thermalimage81a.jpg,BLB,0_81,m83,m83,m83,0_40
+BLB/thermalimage81b.jpg,BLB,0_81,m83,m83,m83,0_40
+BLB/thermalimage82a.jpg,BLB,0_82,m84,m84,m84,0_41
+BLB/thermalimage82b.jpg,BLB,0_82,m84,m84,m84,0_41
+BLB/thermalimage82c.jpg,BLB,0_82,m84,m84,m84,0_41
+BLB/thermalimage83a.jpg,BLB,0_83,m85,m85,m85,0_41
+BLB/thermalimage84a.jpg,BLB,0_84,m86,m86,m86,0_42
+BLB/thermalimage85a.jpg,BLB,0_85,m87,m87,m87,0_42
+BLB/thermalimage86a.jpg,BLB,0_86,m88,m88,m88,0_43
+BLB/thermalimage87a.jpg,BLB,0_87,m89,m89,m89,0_43
+BLB/thermalimage88a.jpg,BLB,0_88,m90,m90,m90,0_44
+BLB/thermalimage89a.jpg,BLB,0_89,m91,m91,m91,0_44
+BLB/thermalimage8a.jpg,BLB,0_8,m81,m81,m81,0_4
+BLB/thermalimage90a.jpg,BLB,0_90,m93,m93,m93,0_45
+BLB/thermalimage91a.jpg,BLB,0_91,m94,m94,m94,0_45
+BLB/thermalimage92a.jpg,BLB,0_92,m95,m95,m95,0_46
+BLB/thermalimage93a.jpg,BLB,0_93,m96,m96,m96,0_46
+BLB/thermalimage94a.jpg,BLB,0_94,m97,m97,m97,0_47
+BLB/thermalimage95a.jpg,BLB,0_95,m98,m98,m98,0_47
+BLB/thermalimage96a.jpg,BLB,0_96,m99,m99,m99,0_48
+BLB/thermalimage97a.jpg,BLB,0_97,m100,m100,m100,0_48
+BLB/thermalimage98a.jpg,BLB,0_98,m101,m101,m101,0_49
+BLB/thermalimage99a.jpg,BLB,0_99,m102,m102,m102,0_49
+BLB/thermalimage9a.jpg,BLB,0_9,m92,m92,m92,0_4
+blast/Thermalimage10a.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10b.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10c.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10d.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10e.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10f.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10g.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10h.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10i.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10j.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10k.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10l.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10m.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10n.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10o.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage10p.jpg,blast,1_10,m104,m104,m104,1_5
+blast/Thermalimage11a.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11b.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11c.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11d.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11e.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11f.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11g.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11h.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11i.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11k.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11l.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11m.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11n.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11o.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11p.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11q.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11r.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11s.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11t.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11u.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11v.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage11w.jpg,blast,1_11,m105,m105,m105,1_5
+blast/Thermalimage1a.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage1b.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage1c.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage1d.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage1e.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage1g.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage1h.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage1i.jpg,blast,1_1,m103,m103,m108,1_0
+blast/Thermalimage2a.jpg,blast,1_2,m106,m106,m106,1_1
+blast/Thermalimage3a.jpg,blast,1_3,m107,m107,m107,1_1
+blast/Thermalimage4a.jpg,blast,1_4,m108,m108,m108,1_2
+blast/Thermalimage5a.jpg,blast,1_5,m109,m109,m109,1_2
+blast/Thermalimage5b.jpg,blast,1_5,m109,m109,m109,1_2
+blast/Thermalimage5c.jpg,blast,1_5,m109,m109,m109,1_2
+blast/Thermalimage5d.jpg,blast,1_5,m109,m109,m109,1_2
+blast/Thermalimage5e.jpg,blast,1_5,m109,m109,m109,1_2
+blast/Thermalimage6a.jpg,blast,1_6,m110,m110,m110,1_3
+blast/Thermalimage7a.jpg,blast,1_7,m111,m111,m113,1_3
+blast/Thermalimage7b.jpg,blast,1_7,m111,m111,m113,1_3
+blast/Thermalimage8a.jpg,blast,1_8,m112,m112,m112,1_4
+blast/Thermalimage8b.jpg,blast,1_8,m112,m112,m112,1_4
+blast/Thermalimage9a.jpg,blast,1_9,m113,m113,m113,1_4
+blast/Thermalimage9b.jpg,blast,1_9,m113,m113,m113,1_4
+blast/Thermalimage9c.jpg,blast,1_9,m113,m113,m113,1_4
+blast/Thermalimage9d.jpg,blast,1_9,m113,m113,m113,1_4
+blast/Thermalimage9e.jpg,blast,1_9,m113,m113,m113,1_4
+blast/Thermalimage9f.jpg,blast,1_9,m113,m113,m113,1_4
+blast/Thermalimage9g.jpg,blast,1_9,m113,m113,m113,1_4
+blast/Thermalimagex.jpg,blast,1_NA_Thermalimagex.jpg,m114,m114,m114,1_NA_Thermalimagex.jpg
+healthy/thermalimage.jpg,healthy,2_NA_thermalimage.jpg,m123,m120,m120,2_NA_thermalimage.jpg
+healthy/thermalimage1a.jpg,healthy,2_1,m115,m115,m115,2_0
+healthy/thermalimage2a.jpg,healthy,2_2,m116,m116,m116,2_1
+healthy/thermalimage3a.jpg,healthy,2_3,m117,m117,m117,2_1
+healthy/thermalimage3b.jpg,healthy,2_3,m117,m117,m117,2_1
+healthy/thermalimage3c.jpg,healthy,2_3,m117,m117,m117,2_1
+healthy/thermalimage3d.jpg,healthy,2_3,m117,m117,m117,2_1
+healthy/thermalimage4a.jpg,healthy,2_4,m118,m118,m118,2_2
+healthy/thermalimage4b.jpg,healthy,2_4,m118,m118,m118,2_2
+healthy/thermalimage4c.jpg,healthy,2_4,m118,m118,m118,2_2
+healthy/thermalimage4d.jpg,healthy,2_4,m118,m118,m118,2_2
+healthy/thermalimage4e.jpg,healthy,2_4,m118,m118,m118,2_2
+healthy/thermalimage5a.jpg,healthy,2_5,m119,m119,m120,2_2
+healthy/thermalimage5b.jpg,healthy,2_5,m119,m119,m120,2_2
+healthy/thermalimage5c.jpg,healthy,2_5,m119,m119,m120,2_2
+healthy/thermalimage5d.jpg,healthy,2_5,m119,m119,m120,2_2
+healthy/thermalimage5e.jpg,healthy,2_5,m119,m119,m120,2_2
+healthy/thermalimage5f.jpg,healthy,2_5,m119,m119,m120,2_2
+healthy/thermalimage6a.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6b.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6c.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6d.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6e.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6f.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6g.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6h.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6i.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6j.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6k.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6l.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6m.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6n.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6o.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6p.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6q.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6r.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6s.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6t.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage6u.jpg,healthy,2_6,m120,m120,m120,2_3
+healthy/thermalimage7a.jpg,healthy,2_7,m122,m122,m122,2_3
+healthy/thermalimage7b.jpg,healthy,2_7,m122,m122,m122,2_3
+healthy/thermalimage7c.jpg,healthy,2_7,m122,m122,m122,2_3
+healthy/thermalimage8a.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8aa.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8b.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8bb.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8c.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8cc.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8d.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8dd.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8e.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8ee.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8f.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8ff.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8g.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8gg.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8h.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8hh.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8i.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8ii.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8j.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8jj.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8k.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8kk.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8l.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8ll.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8m.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8mm.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8n.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8nn.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8o.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8oo.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8p.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8pp.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8q.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8qq.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8r.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8rr.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8s.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8ss.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8t.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8tt.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8u.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8uu.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8v.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8vv.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8w.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8ww.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8x.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8xx.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8y.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8z.jpg,healthy,2_8,m122,m122,m122,2_4
+healthy/thermalimage8zz.jpg,healthy,2_8,m122,m122,m122,2_4
+hispa/thermalimage.jpg,hispa,3_NA_thermalimage.jpg,m195,m195,m195,3_NA_thermalimage.jpg
+hispa/thermalimage10a.jpg,hispa,3_10,m125,m127,m129,3_5
+hispa/thermalimage10b.jpg,hispa,3_10,m125,m127,m129,3_5
+hispa/thermalimage11a.jpg,hispa,3_11,m126,m126,m129,3_5
+hispa/thermalimage11b.jpg,hispa,3_11,m126,m126,m129,3_5
+hispa/thermalimage12a.jpg,hispa,3_12,m127,m127,m129,3_6
+hispa/thermalimage12b.jpg,hispa,3_12,m127,m127,m129,3_6
+hispa/thermalimage13a.jpg,hispa,3_13,m128,m129,m129,3_6
+hispa/thermalimage13b.jpg,hispa,3_13,m128,m129,m129,3_6
+hispa/thermalimage13c.jpg,hispa,3_13,m128,m129,m129,3_6
+hispa/thermalimage14a.jpg,hispa,3_14,m129,m129,m129,3_7
+hispa/thermalimage14b.jpg,hispa,3_14,m129,m129,m129,3_7
+hispa/thermalimage14c.jpg,hispa,3_14,m129,m129,m129,3_7
+hispa/thermalimage14d.jpg,hispa,3_14,m129,m129,m129,3_7
+hispa/thermalimage14e.jpg,hispa,3_14,m129,m129,m129,3_7
+hispa/thermalimage15a.jpg,hispa,3_15,m130,m130,m130,3_7
+hispa/thermalimage15b.jpg,hispa,3_15,m130,m130,m130,3_7
+hispa/thermalimage15c.jpg,hispa,3_15,m130,m130,m130,3_7
+hispa/thermalimage15d.jpg,hispa,3_15,m130,m130,m130,3_7
+hispa/thermalimage15e.jpg,hispa,3_15,m130,m130,m130,3_7
+hispa/thermalimage15f.jpg,hispa,3_15,m130,m130,m130,3_7
+hispa/thermalimage15g.jpg,hispa,3_15,m130,m130,m130,3_7
+hispa/thermalimage16a.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16b.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16c.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16d.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16e.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16f.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16g.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16h.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16i.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16j.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16k.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16l.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16m.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16n.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16o.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage16p.jpg,hispa,3_16,m131,m131,m131,3_8
+hispa/thermalimage17a.jpg,hispa,3_17,m132,m132,m132,3_8
+hispa/thermalimage18a.jpg,hispa,3_18,m133,m133,m133,3_9
+hispa/thermalimage19a.jpg,hispa,3_19,m134,m134,m134,3_9
+hispa/thermalimage1a.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage1b.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage1c.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage1d.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage1e.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage1f.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage1g.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage1h.jpg,hispa,3_1,m124,m124,m124,3_0
+hispa/thermalimage20a.jpg,hispa,3_20,m136,m136,m140,3_10
+hispa/thermalimage21a.jpg,hispa,3_21,m137,m137,m139,3_10
+hispa/thermalimage22a.jpg,hispa,3_22,m138,m138,m138,3_11
+hispa/thermalimage23a.jpg,hispa,3_23,m139,m139,m139,3_11
+hispa/thermalimage24a.jpg,hispa,3_24,m140,m140,m140,3_12
+hispa/thermalimage25a.jpg,hispa,3_25,m141,m141,m141,3_12
+hispa/thermalimage26a.jpg,hispa,3_26,m142,m142,m142,3_13
+hispa/thermalimage27a.jpg,hispa,3_27,m143,m143,m143,3_13
+hispa/thermalimage28a.jpg,hispa,3_28,m144,m144,m144,3_14
+hispa/thermalimage29a.jpg,hispa,3_29,m145,m145,m145,3_14
+hispa/thermalimage29b.jpg,hispa,3_29,m145,m145,m145,3_14
+hispa/thermalimage29c.jpg,hispa,3_29,m145,m145,m145,3_14
+hispa/thermalimage29d.jpg,hispa,3_29,m145,m145,m145,3_14
+hispa/thermalimage2a.jpg,hispa,3_2,m135,m135,m135,3_1
+hispa/thermalimage2b.jpg,hispa,3_2,m135,m135,m135,3_1
+hispa/thermalimage2c.jpg,hispa,3_2,m135,m135,m135,3_1
+hispa/thermalimage30a.jpg,hispa,3_30,m147,m147,m147,3_15
+hispa/thermalimage31a.jpg,hispa,3_31,m148,m148,m148,3_15
+hispa/thermalimage32a.jpg,hispa,3_32,m149,m149,m149,3_16
+hispa/thermalimage33a.jpg,hispa,3_33,m150,m151,m151,3_16
+hispa/thermalimage34a.jpg,hispa,3_34,m151,m151,m151,3_17
+hispa/thermalimage35a.jpg,hispa,3_35,m152,m152,m152,3_17
+hispa/thermalimage36a.jpg,hispa,3_36,m153,m153,m153,3_18
+hispa/thermalimage36b.jpg,hispa,3_36,m153,m153,m153,3_18
+hispa/thermalimage36c.jpg,hispa,3_36,m153,m153,m153,3_18
+hispa/thermalimage37a.jpg,hispa,3_37,m154,m160,m160,3_18
+hispa/thermalimage38a.jpg,hispa,3_38,m155,m155,m155,3_19
+hispa/thermalimage39a.jpg,hispa,3_39,m156,m156,m156,3_19
+hispa/thermalimage3a.jpg,hispa,3_3,m146,m146,m146,3_1
+hispa/thermalimage3b.jpg,hispa,3_3,m146,m146,m146,3_1
+hispa/thermalimage40a.jpg,hispa,3_40,m158,m158,m158,3_20
+hispa/thermalimage41a.jpg,hispa,3_41,m159,m160,m160,3_20
+hispa/thermalimage42a.jpg,hispa,3_42,m160,m160,m160,3_21
+hispa/thermalimage43a.jpg,hispa,3_43,m161,m161,m161,3_21
+hispa/thermalimage44a.jpg,hispa,3_44,m162,m162,m162,3_22
+hispa/thermalimage45a.jpg,hispa,3_45,m163,m163,m163,3_22
+hispa/thermalimage46a.jpg,hispa,3_46,m164,m164,m164,3_23
+hispa/thermalimage47a.jpg,hispa,3_47,m165,m165,m165,3_23
+hispa/thermalimage48a.jpg,hispa,3_48,m166,m166,m166,3_24
+hispa/thermalimage49a.jpg,hispa,3_49,m167,m167,m167,3_24
+hispa/thermalimage4a.jpg,hispa,3_4,m157,m157,m157,3_2
+hispa/thermalimage4b.jpg,hispa,3_4,m157,m157,m157,3_2
+hispa/thermalimage50a.jpg,hispa,3_50,m169,m169,m169,3_25
+hispa/thermalimage51a.jpg,hispa,3_51,m170,m170,m170,3_25
+hispa/thermalimage52a.jpg,hispa,3_52,m171,m173,m173,3_26
+hispa/thermalimage53a.jpg,hispa,3_53,m172,m172,m172,3_26
+hispa/thermalimage54a.jpg,hispa,3_54,m173,m173,m173,3_27
+hispa/thermalimage55a.jpg,hispa,3_55,m174,m174,m174,3_27
+hispa/thermalimage56a.jpg,hispa,3_56,m175,m175,m176,3_28
+hispa/thermalimage56b.jpg,hispa,3_56,m175,m175,m176,3_28
+hispa/thermalimage56c.jpg,hispa,3_56,m175,m175,m176,3_28
+hispa/thermalimage57a.jpg,hispa,3_57,m176,m176,m176,3_28
+hispa/thermalimage57b.jpg,hispa,3_57,m176,m176,m176,3_28
+hispa/thermalimage57c.jpg,hispa,3_57,m176,m176,m176,3_28
+hispa/thermalimage58a.jpg,hispa,3_58,m177,m177,m177,3_29
+hispa/thermalimage58b.jpg,hispa,3_58,m177,m177,m177,3_29
+hispa/thermalimage59a.jpg,hispa,3_59,m178,m178,m178,3_29
+hispa/thermalimage59b.jpg,hispa,3_59,m178,m178,m178,3_29
+hispa/thermalimage5a.jpg,hispa,3_5,m168,m168,m168,3_2
+hispa/thermalimage5b.jpg,hispa,3_5,m168,m168,m168,3_2
+hispa/thermalimage60a.jpg,hispa,3_60,m180,m180,m180,3_30
+hispa/thermalimage60b.jpg,hispa,3_60,m180,m180,m180,3_30
+hispa/thermalimage61a.jpg,hispa,3_61,m181,m181,m181,3_30
+hispa/thermalimage61b.jpg,hispa,3_61,m181,m181,m181,3_30
+hispa/thermalimage61c.jpg,hispa,3_61,m181,m181,m181,3_30
+hispa/thermalimage61d.jpg,hispa,3_61,m181,m181,m181,3_30
+hispa/thermalimage61e.jpg,hispa,3_61,m181,m181,m181,3_30
+hispa/thermalimage61f.jpg,hispa,3_61,m181,m181,m181,3_30
+hispa/thermalimage61g.jpg,hispa,3_61,m181,m181,m181,3_30
+hispa/thermalimage63a.jpg,hispa,3_63,m182,m182,m183,3_31
+hispa/thermalimage63b.jpg,hispa,3_63,m182,m182,m183,3_31
+hispa/thermalimage64a.jpg,hispa,3_64,m183,m183,m183,3_32
+hispa/thermalimage64b.jpg,hispa,3_64,m183,m183,m183,3_32
+hispa/thermalimage65a.jpg,hispa,3_65,m184,m184,m186,3_32
+hispa/thermalimage65b.jpg,hispa,3_65,m184,m184,m186,3_32
+hispa/thermalimage66a.jpg,hispa,3_66,m185,m188,m188,3_33
+hispa/thermalimage67a.jpg,hispa,3_67,m186,m186,m186,3_33
+hispa/thermalimage67b.jpg,hispa,3_67,m186,m186,m186,3_33
+hispa/thermalimage68a.jpg,hispa,3_68,m187,m187,m187,3_34
+hispa/thermalimage69a.jpg,hispa,3_69,m188,m188,m188,3_34
+hispa/thermalimage6a.jpg,hispa,3_6,m179,m179,m189,3_3
+hispa/thermalimage6b.jpg,hispa,3_6,m179,m179,m189,3_3
+hispa/thermalimage6c.jpg,hispa,3_6,m179,m179,m189,3_3
+hispa/thermalimage70a.jpg,hispa,3_70,m190,m190,m190,3_35
+hispa/thermalimage71a.jpg,hispa,3_71,m191,m191,m191,3_35
+hispa/thermalimage72a.jpg,hispa,3_72,m192,m192,m192,3_36
+hispa/thermalimage72b.jpg,hispa,3_72,m192,m192,m192,3_36
+hispa/thermalimage7a.jpg,hispa,3_7,m189,m189,m189,3_3
+hispa/thermalimage7b.jpg,hispa,3_7,m189,m189,m189,3_3
+hispa/thermalimage7c.jpg,hispa,3_7,m189,m189,m189,3_3
+hispa/thermalimage8a.jpg,hispa,3_8,m193,m194,m194,3_4
+hispa/thermalimage8b.jpg,hispa,3_8,m193,m194,m194,3_4
+hispa/thermalimage9a.jpg,hispa,3_9,m194,m194,m194,3_4
+leaf folder/thermalimage10a.jpg,leaf folder,4_10,m197,m197,m197,4_5
+leaf folder/thermalimage11a.jpg,leaf folder,4_11,m198,m198,m198,4_5
+leaf folder/thermalimage12a.jpg,leaf folder,4_12,m199,m199,m199,4_6
+leaf folder/thermalimage13a.jpg,leaf folder,4_13,m200,m200,m200,4_6
+leaf folder/thermalimage13b.jpg,leaf folder,4_13,m200,m200,m200,4_6
+leaf folder/thermalimage13c.jpg,leaf folder,4_13,m200,m200,m200,4_6
+leaf folder/thermalimage14a.jpg,leaf folder,4_14,m201,m201,m201,4_7
+leaf folder/thermalimage14b.jpg,leaf folder,4_14,m201,m201,m201,4_7
+leaf folder/thermalimage15a.jpg,leaf folder,4_15,m202,m202,m202,4_7
+leaf folder/thermalimage15b.jpg,leaf folder,4_15,m202,m202,m202,4_7
+leaf folder/thermalimage15c.jpg,leaf folder,4_15,m202,m202,m202,4_7
+leaf folder/thermalimage15d.jpg,leaf folder,4_15,m202,m202,m202,4_7
+leaf folder/thermalimage16a.jpg,leaf folder,4_16,m203,m203,m203,4_8
+leaf folder/thermalimage17a.jpg,leaf folder,4_17,m204,m204,m204,4_8
+leaf folder/thermalimage17b.jpg,leaf folder,4_17,m204,m204,m204,4_8
+leaf folder/thermalimage17c.jpg,leaf folder,4_17,m204,m204,m204,4_8
+leaf folder/thermalimage18a.jpg,leaf folder,4_18,m205,m205,m205,4_9
+leaf folder/thermalimage18b.jpg,leaf folder,4_18,m205,m205,m205,4_9
+leaf folder/thermalimage18c.jpg,leaf folder,4_18,m205,m205,m205,4_9
+leaf folder/thermalimage18d.jpg,leaf folder,4_18,m205,m205,m205,4_9
+leaf folder/thermalimage19a.jpg,leaf folder,4_19,m206,m206,m206,4_9
+leaf folder/thermalimage19b.jpg,leaf folder,4_19,m206,m206,m206,4_9
+leaf folder/thermalimage19c.jpg,leaf folder,4_19,m206,m206,m206,4_9
+leaf folder/thermalimage19d.jpg,leaf folder,4_19,m206,m206,m206,4_9
+leaf folder/thermalimage1a.jpg,leaf folder,4_1,m196,m196,m196,4_0
+leaf folder/thermalimage2a.jpg,leaf folder,4_2,m207,m207,m207,4_1
+leaf folder/thermalimage3a.jpg,leaf folder,4_3,m208,m208,m208,4_1
+leaf folder/thermalimage4a.jpg,leaf folder,4_4,m209,m209,m209,4_2
+leaf folder/thermalimage5a.jpg,leaf folder,4_5,m210,m210,m210,4_2
+leaf folder/thermalimage6a.jpg,leaf folder,4_6,m211,m211,m211,4_3
+leaf folder/thermalimage7a.jpg,leaf folder,4_7,m212,m212,m212,4_3
+leaf folder/thermalimage8a.jpg,leaf folder,4_8,m213,m213,m213,4_4
+leaf folder/thermalimage8b.jpg,leaf folder,4_8,m213,m213,m213,4_4
+leaf folder/thermalimage9a.jpg,leaf folder,4_9,m214,m214,m214,4_4
+leaf spot/thermalimage10a.jpg,leaf spot,5_10,m216,m216,m244,5_5
+leaf spot/thermalimage10b.jpg,leaf spot,5_10,m216,m216,m244,5_5
+leaf spot/thermalimage10c.jpg,leaf spot,5_10,m216,m216,m244,5_5
+leaf spot/thermalimage11a.jpg,leaf spot,5_11,m217,m244,m244,5_5
+leaf spot/thermalimage11b.jpg,leaf spot,5_11,m217,m244,m244,5_5
+leaf spot/thermalimage11c.jpg,leaf spot,5_11,m217,m244,m244,5_5
+leaf spot/thermalimage11d.jpg,leaf spot,5_11,m217,m244,m244,5_5
+leaf spot/thermalimage12a.jpg,leaf spot,5_12,m218,m244,m244,5_6
+leaf spot/thermalimage12b.jpg,leaf spot,5_12,m218,m244,m244,5_6
+leaf spot/thermalimage12c.jpg,leaf spot,5_12,m218,m244,m244,5_6
+leaf spot/thermalimage12d.jpg,leaf spot,5_12,m218,m244,m244,5_6
+leaf spot/thermalimage12e.jpg,leaf spot,5_12,m218,m244,m244,5_6
+leaf spot/thermalimage12f.jpg,leaf spot,5_12,m218,m244,m244,5_6
+leaf spot/thermalimage13a.jpg,leaf spot,5_13,m219,m227,m224,5_6
+leaf spot/thermalimage14a.jpg,leaf spot,5_14,m220,m220,m220,5_7
+leaf spot/thermalimage15a.jpg,leaf spot,5_15,m221,m227,m224,5_7
+leaf spot/thermalimage16a.jpg,leaf spot,5_16,m222,m222,m222,5_8
+leaf spot/thermalimage17a.jpg,leaf spot,5_17,m223,m223,m223,5_8
+leaf spot/thermalimage18a.jpg,leaf spot,5_18,m224,m227,m224,5_9
+leaf spot/thermalimage19a.jpg,leaf spot,5_19,m225,m227,m224,5_9
+leaf spot/thermalimage1a.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1b.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1c.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1d.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1e.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1f.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1g.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1h.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1j.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage1k.jpg,leaf spot,5_1,m215,m215,m226,5_0
+leaf spot/thermalimage20a.jpg,leaf spot,5_20,m227,m227,m224,5_10
+leaf spot/thermalimage21a.jpg,leaf spot,5_21,m229,m230,m230,5_10
+leaf spot/thermalimage22a.jpg,leaf spot,5_22,m229,m230,m230,5_11
+leaf spot/thermalimage23a.jpg,leaf spot,5_23,m230,m230,m230,5_11
+leaf spot/thermalimage24a.jpg,leaf spot,5_24,m231,m231,m231,5_12
+leaf spot/thermalimage24b.jpg,leaf spot,5_24,m231,m231,m231,5_12
+leaf spot/thermalimage24c.jpg,leaf spot,5_24,m231,m231,m231,5_12
+leaf spot/thermalimage24d.jpg,leaf spot,5_24,m231,m231,m231,5_12
+leaf spot/thermalimage24e.jpg,leaf spot,5_24,m231,m231,m231,5_12
+leaf spot/thermalimage25a.jpg,leaf spot,5_25,m232,m232,m232,5_12
+leaf spot/thermalimage25b.jpg,leaf spot,5_25,m232,m232,m232,5_12
+leaf spot/thermalimage26a.jpg,leaf spot,5_26,m233,m233,m235,5_13
+leaf spot/thermalimage26b.jpg,leaf spot,5_26,m233,m233,m235,5_13
+leaf spot/thermalimage26c.jpg,leaf spot,5_26,m233,m233,m235,5_13
+leaf spot/thermalimage27a.jpg,leaf spot,5_27,m234,m234,m234,5_13
+leaf spot/thermalimage27b.jpg,leaf spot,5_27,m234,m234,m234,5_13
+leaf spot/thermalimage28a.jpg,leaf spot,5_28,m235,m235,m235,5_14
+leaf spot/thermalimage28b.jpg,leaf spot,5_28,m235,m235,m235,5_14
+leaf spot/thermalimage28c.jpg,leaf spot,5_28,m235,m235,m235,5_14
+leaf spot/thermalimage29a.jpg,leaf spot,5_29,m236,m236,m236,5_14
+leaf spot/thermalimage29b.jpg,leaf spot,5_29,m236,m236,m236,5_14
+leaf spot/thermalimage2a.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2b.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2c.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2d.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2e.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2f.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2g.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2h.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage2i.jpg,leaf spot,5_2,m226,m226,m226,5_1
+leaf spot/thermalimage30a.jpg,leaf spot,5_30,m238,m238,m238,5_15
+leaf spot/thermalimage30b.jpg,leaf spot,5_30,m238,m238,m238,5_15
+leaf spot/thermalimage30c.jpg,leaf spot,5_30,m238,m238,m238,5_15
+leaf spot/thermalimage31a.jpg,leaf spot,5_31,m239,m239,m239,5_15
+leaf spot/thermalimage31b.jpg,leaf spot,5_31,m239,m239,m239,5_15
+leaf spot/thermalimage31c.jpg,leaf spot,5_31,m239,m239,m239,5_15
+leaf spot/thermalimage31d.jpg,leaf spot,5_31,m239,m239,m239,5_15
+leaf spot/thermalimage32a.jpg,leaf spot,5_32,m240,m240,m241,5_16
+leaf spot/thermalimage32b.jpg,leaf spot,5_32,m240,m240,m241,5_16
+leaf spot/thermalimage32c.jpg,leaf spot,5_32,m240,m240,m241,5_16
+leaf spot/thermalimage33a.jpg,leaf spot,5_33,m241,m241,m241,5_16
+leaf spot/thermalimage33b.jpg,leaf spot,5_33,m241,m241,m241,5_16
+leaf spot/thermalimage33c.jpg,leaf spot,5_33,m241,m241,m241,5_16
+leaf spot/thermalimage3a.jpg,leaf spot,5_3,m237,m237,m244,5_1
+leaf spot/thermalimage4a.jpg,leaf spot,5_4,m242,m242,m242,5_2
+leaf spot/thermalimage5a.jpg,leaf spot,5_5,m243,m243,m243,5_2
+leaf spot/thermalimage6a.jpg,leaf spot,5_6,m244,m244,m244,5_3
+leaf spot/thermalimage7a.jpg,leaf spot,5_7,m245,m245,m245,5_3
+leaf spot/thermalimage8a.jpg,leaf spot,5_8,m246,m246,m246,5_4
+leaf spot/thermalimage9a.jpg,leaf spot,5_9,m247,m247,m247,5_4

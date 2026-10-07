@@ -1,0 +1,271 @@
+seed,fold,part,cls,images,groups
+0,0,train,BLB,147,68
+0,0,train,blast,36,7
+0,0,train,healthy,39,5
+0,0,train,hispa,95,46
+0,0,train,leaf folder,24,13
+0,0,train,leaf spot,54,22
+0,0,val,BLB,29,14
+0,0,val,blast,22,1
+0,0,val,healthy,3,3
+0,0,val,hispa,19,11
+0,0,val,leaf folder,4,3
+0,0,val,leaf spot,10,4
+0,0,test,BLB,44,21
+0,0,test,blast,9,4
+0,0,test,healthy,51,1
+0,0,test,hispa,28,15
+0,0,test,leaf folder,6,3
+0,0,test,leaf spot,16,7
+0,1,train,BLB,147,67
+0,1,train,blast,41,8
+0,1,train,healthy,35,6
+0,1,train,hispa,95,46
+0,1,train,leaf folder,23,12
+0,1,train,leaf spot,54,21
+0,1,val,BLB,29,15
+0,1,val,blast,4,3
+0,1,val,healthy,51,1
+0,1,val,hispa,19,12
+0,1,val,leaf folder,4,3
+0,1,val,leaf spot,10,5
+0,1,test,BLB,44,21
+0,1,test,blast,22,1
+0,1,test,healthy,7,2
+0,1,test,hispa,28,14
+0,1,test,leaf folder,7,4
+0,1,test,leaf spot,16,7
+0,2,train,BLB,147,67
+0,2,train,blast,54,6
+0,2,train,healthy,21,7
+0,2,train,hispa,95,46
+0,2,train,leaf folder,23,11
+0,2,train,leaf spot,54,22
+0,2,val,BLB,29,15
+0,2,val,blast,3,3
+0,2,val,healthy,51,1
+0,2,val,hispa,19,11
+0,2,val,leaf folder,4,4
+0,2,val,leaf spot,10,5
+0,2,test,BLB,44,21
+0,2,test,blast,10,3
+0,2,test,healthy,21,1
+0,2,test,hispa,28,15
+0,2,test,leaf folder,7,4
+0,2,test,leaf spot,16,6
+0,3,train,BLB,147,68
+0,3,train,blast,47,8
+0,3,train,healthy,35,6
+0,3,train,hispa,95,46
+0,3,train,leaf folder,23,12
+0,3,train,leaf spot,54,21
+0,3,val,BLB,29,15
+0,3,val,blast,4,3
+0,3,val,healthy,51,1
+0,3,val,hispa,18,10
+0,3,val,leaf folder,4,3
+0,3,val,leaf spot,10,5
+0,3,test,BLB,44,20
+0,3,test,blast,16,1
+0,3,test,healthy,7,2
+0,3,test,hispa,29,16
+0,3,test,leaf folder,7,4
+0,3,test,leaf spot,16,7
+0,4,train,BLB,147,69
+0,4,train,blast,54,7
+0,4,train,healthy,35,5
+0,4,train,hispa,95,50
+0,4,train,leaf folder,23,12
+0,4,train,leaf spot,54,22
+0,4,val,BLB,29,14
+0,4,val,blast,3,2
+0,4,val,healthy,51,1
+0,4,val,hispa,18,10
+0,4,val,leaf folder,4,3
+0,4,val,leaf spot,10,5
+0,4,test,BLB,44,20
+0,4,test,blast,10,3
+0,4,test,healthy,7,3
+0,4,test,hispa,29,12
+0,4,test,leaf folder,7,4
+0,4,test,leaf spot,16,6
+1,0,train,BLB,147,68
+1,0,train,blast,36,7
+1,0,train,healthy,39,7
+1,0,train,hispa,95,46
+1,0,train,leaf folder,24,12
+1,0,train,leaf spot,54,21
+1,0,val,BLB,29,14
+1,0,val,blast,22,1
+1,0,val,healthy,3,1
+1,0,val,hispa,19,11
+1,0,val,leaf folder,4,4
+1,0,val,leaf spot,10,5
+1,0,test,BLB,44,21
+1,0,test,blast,9,4
+1,0,test,healthy,51,1
+1,0,test,hispa,28,15
+1,0,test,leaf folder,6,3
+1,0,test,leaf spot,16,7
+1,1,train,BLB,147,67
+1,1,train,blast,41,8
+1,1,train,healthy,35,6
+1,1,train,hispa,95,46
+1,1,train,leaf folder,23,12
+1,1,train,leaf spot,54,21
+1,1,val,BLB,29,15
+1,1,val,blast,4,3
+1,1,val,healthy,51,1
+1,1,val,hispa,19,12
+1,1,val,leaf folder,4,3
+1,1,val,leaf spot,10,5
+1,1,test,BLB,44,21
+1,1,test,blast,22,1
+1,1,test,healthy,7,2
+1,1,test,hispa,28,14
+1,1,test,leaf folder,7,4
+1,1,test,leaf spot,16,7
+1,2,train,BLB,147,67
+1,2,train,blast,54,6
+1,2,train,healthy,21,7
+1,2,train,hispa,95,46
+1,2,train,leaf folder,23,11
+1,2,train,leaf spot,54,22
+1,2,val,BLB,29,15
+1,2,val,blast,3,3
+1,2,val,healthy,51,1
+1,2,val,hispa,19,11
+1,2,val,leaf folder,4,4
+1,2,val,leaf spot,10,5
+1,2,test,BLB,44,21
+1,2,test,blast,10,3
+1,2,test,healthy,21,1
+1,2,test,hispa,28,15
+1,2,test,leaf folder,7,4
+1,2,test,leaf spot,16,6
+1,3,train,BLB,147,69
+1,3,train,blast,47,8
+1,3,train,healthy,35,6
+1,3,train,hispa,95,46
+1,3,train,leaf folder,23,12
+1,3,train,leaf spot,54,21
+1,3,val,BLB,29,14
+1,3,val,blast,4,3
+1,3,val,healthy,51,1
+1,3,val,hispa,18,10
+1,3,val,leaf folder,4,3
+1,3,val,leaf spot,10,5
+1,3,test,BLB,44,20
+1,3,test,blast,16,1
+1,3,test,healthy,7,2
+1,3,test,hispa,29,16
+1,3,test,leaf folder,7,4
+1,3,test,leaf spot,16,7
+1,4,train,BLB,147,69
+1,4,train,blast,54,7
+1,4,train,healthy,35,5
+1,4,train,hispa,95,50
+1,4,train,leaf folder,23,12
+1,4,train,leaf spot,54,22
+1,4,val,BLB,29,14
+1,4,val,blast,3,2
+1,4,val,healthy,51,1
+1,4,val,hispa,18,10
+1,4,val,leaf folder,4,3
+1,4,val,leaf spot,10,5
+1,4,test,BLB,44,20
+1,4,test,blast,10,3
+1,4,test,healthy,7,3
+1,4,test,hispa,29,12
+1,4,test,leaf folder,7,4
+1,4,test,leaf spot,16,6
+2,0,train,BLB,147,67
+2,0,train,blast,36,7
+2,0,train,healthy,36,7
+2,0,train,hispa,95,47
+2,0,train,leaf folder,24,12
+2,0,train,leaf spot,54,21
+2,0,val,BLB,29,15
+2,0,val,blast,22,1
+2,0,val,healthy,6,1
+2,0,val,hispa,19,10
+2,0,val,leaf folder,4,4
+2,0,val,leaf spot,10,5
+2,0,test,BLB,44,21
+2,0,test,blast,9,4
+2,0,test,healthy,51,1
+2,0,test,hispa,28,15
+2,0,test,leaf folder,6,3
+2,0,test,leaf spot,16,7
+2,1,train,BLB,147,67
+2,1,train,blast,41,8
+2,1,train,healthy,35,6
+2,1,train,hispa,95,46
+2,1,train,leaf folder,23,12
+2,1,train,leaf spot,54,22
+2,1,val,BLB,29,15
+2,1,val,blast,4,3
+2,1,val,healthy,51,1
+2,1,val,hispa,19,11
+2,1,val,leaf folder,4,3
+2,1,val,leaf spot,10,5
+2,1,test,BLB,44,21
+2,1,test,blast,22,1
+2,1,test,healthy,7,2
+2,1,test,hispa,28,15
+2,1,test,leaf folder,7,4
+2,1,test,leaf spot,16,6
+2,2,train,BLB,147,67
+2,2,train,blast,54,6
+2,2,train,healthy,21,7
+2,2,train,hispa,95,46
+2,2,train,leaf folder,23,11
+2,2,train,leaf spot,54,22
+2,2,val,BLB,29,15
+2,2,val,blast,3,3
+2,2,val,healthy,51,1
+2,2,val,hispa,19,11
+2,2,val,leaf folder,4,4
+2,2,val,leaf spot,10,5
+2,2,test,BLB,44,21
+2,2,test,blast,10,3
+2,2,test,healthy,21,1
+2,2,test,hispa,28,15
+2,2,test,leaf folder,7,4
+2,2,test,leaf spot,16,6
+2,3,train,BLB,147,69
+2,3,train,blast,54,7
+2,3,train,healthy,35,5
+2,3,train,hispa,95,50
+2,3,train,leaf folder,23,12
+2,3,train,leaf spot,54,21
+2,3,val,BLB,29,14
+2,3,val,blast,3,2
+2,3,val,healthy,51,1
+2,3,val,hispa,18,10
+2,3,val,leaf folder,4,3
+2,3,val,leaf spot,10,5
+2,3,test,BLB,44,20
+2,3,test,blast,10,3
+2,3,test,healthy,7,3
+2,3,test,hispa,29,12
+2,3,test,leaf folder,7,4
+2,3,test,leaf spot,16,7
+2,4,train,BLB,147,69
+2,4,train,blast,47,8
+2,4,train,healthy,35,6
+2,4,train,hispa,95,46
+2,4,train,leaf folder,23,12
+2,4,train,leaf spot,54,21
+2,4,val,BLB,29,14
+2,4,val,blast,4,3
+2,4,val,healthy,51,1
+2,4,val,hispa,18,11
+2,4,val,leaf folder,4,3
+2,4,val,leaf spot,10,5
+2,4,test,BLB,44,20
+2,4,test,blast,16,1
+2,4,test,healthy,7,2
+2,4,test,hispa,29,15
+2,4,test,leaf folder,7,4
+2,4,test,leaf spot,16,7
