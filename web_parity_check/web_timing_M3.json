@@ -1,9 +1,9 @@
 {
   "date": "2026-10-07",
-  "what": "Timing of the live web prototype (https://drfaizb-thermal-paddy-classifier.static.hf.space) in the Chromium-based browser pane of the Claude desktop app on Dr Faiz's Mac",
+  "what": "Timing of the live web prototype (https://drfaizb-thermal-paddy-classifier.static.hf.space) in a Chromium-based browser on an Apple M3 Mac",
   "files_checked": "Live model.json and shards 1 and 12 byte-identical (SHA-256) to 02_Web_App_HuggingFace/; live index.html identical apart from one line injected by Hugging Face",
   "environment": {
-    "browser_engine": "Chrome/152.0.7977.130 (Claude desktop app 2.19675.1)",
+    "browser_engine": "Chrome/152.0.7977.130",
     "gpu_reported_by_browser": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3)",
     "logical_cores": 8,
     "device_memory_GB_reported": 8,

@@ -39,4 +39,4 @@ The scripts in step 2 write their outputs (`rows_*.json`, `oof_*.npy`, `groups_*
 Verified: re-running step 2 for `resnet50_crop:grouped` reproduces 77.22 ± 6.80% accuracy.
 Software: Python 3.11, TensorFlow 2.21.0, Keras 3.15.1, scikit-learn 1.8.0.
 Web prototype (in-browser, TensorFlow.js): https://huggingface.co/spaces/drfaizb/thermal-paddy-classifier
-License: MIT.
+License: MIT, for the code, results and model weights in this repository. The dataset is not included and is not covered by this license; it remains under its owner's terms on Kaggle.
